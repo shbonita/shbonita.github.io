@@ -1,2 +1,1 @@
-# shbonita.github.io
-Bonita Sharif's website
+# Bonita Sharif's website
