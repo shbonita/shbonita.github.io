@@ -1,0 +1,8 @@
+title: Shbonita.GitHub.io
+description: Bonita Sharif's website
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
