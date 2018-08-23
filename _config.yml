@@ -1,7 +1,7 @@
 title: Bonita Sharif
 description: Assistant Professor
 google_analytics: 
-show_downloads: falase
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
