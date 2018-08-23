@@ -13,8 +13,9 @@ Software Engineering Research and Empirical Studies Group
 software engineering, program comprehension, eye tracking, empricial studies, human computer interaction, software traceability, emotional awareness in development
 
 ### Spring 2019 Teaching
-** ST: Empirical Methods in Software Engineering** (syllabus coming soon)
+#### ST: Empirical Methods in Software Engineering
 The goal of this course is to cover the various types of resarch methods used in software engineering. Evidence is crucial to support a new idea or solution.  The course will focus on all aspects of an experiment: researching a good problem, study design, study instrumentation, and finally analyzing results. Students will learn how to design and conduct a technically sound empirical study for software engineering problems.  
+(syllabus coming soon)
 
 ### Recent News 
 I joined the CSE department at UNL in August of 2018. I have several topics related to my research in software engineering for both undergraduate and graduate students.  These topics can be developed into a senior project for undergraduates as well as thesis topics for graduate students.  [Contact me](mailto:bsharif@unl.edu) for more information.
